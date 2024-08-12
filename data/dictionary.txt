@@ -1,0 +1,10 @@
+hacer,realizar,
+carro,automovil,car,carrazo
+mucho,abundante,numeroso
+escribir,redactar,componer
+beber,tomar,ingerir
+hablar,conversar,charlar,platicar
+comer,ingerir,tragar
+dormir,descansar,reposar
+prueba,test,pruebita
+trabajar,laborar,obrar
